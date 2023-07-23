@@ -8,8 +8,7 @@ This is a classification problem, and the approaches sampled include perceptron,
 
 
 ## Training
-In this project, I took six algorithms, varied their parameters, and compared the final models. The algorithms included Perceptron, Logistic Regression, LogK Neighbors Classifier, Support Vector Classifier, Decision Tree Classifier and Random Forest Classifier. 
-I split the dataset into 80% training and 20% testing data.
+In this project, I took six algorithms, varied their parameters, and compared the final models. The algorithms included Perceptron, Logistic Regression, LogK Neighbors Classifier, Support Vector Classifier, Decision Tree Classifier and Random Forest Classifier. I split the dataset into 80% training and 20% testing data.
 <img width="643" alt="Screenshot 2023-07-23 at 08 19 59" src="https://github.com/nnanna217/msc-508-machine-learning/assets/1811905/fe5790e3-297d-4146-96d0-ce48bf78d6ac">
 
 ## Model Selection
