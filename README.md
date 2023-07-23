@@ -1,6 +1,8 @@
 # msc-508-machine-learning
 ## Coursework for COP508-machine learning
 
+## Task - Predict potential occurrence of Heart disease given patient medical history
+
 This project predicts potential Heart Diseases in people using Machine Learning algorithms. 
 This is a classification problem, and the approaches sampled include perceptron, Logistic Regression, K Neighbors Classifier, Support Vector Classifier, and Decision tree Classifier and Random Forest Classifier. 
 
