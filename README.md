@@ -4,6 +4,9 @@
 This project predicts potential Heart Diseases in people using Machine Learning algorithms. 
 This is a classification problem, and the approaches sampled include perceptron, Logistic Regression, K Neighbors Classifier, Support Vector Classifier, and Decision tree Classifier and Random Forest Classifier. 
 
+<img width="1247" alt="Screenshot 2023-07-23 at 08 48 21" src="https://github.com/nnanna217/msc-508-machine-learning/assets/1811905/34f22279-6e66-4acb-98dc-43cbcc579f5a">
+
+
 ## Training
 In this project, I took six algorithms, varied their parameters, and compared the final models. The algorithms included Perceptron, Logistic Regression, LogK Neighbors Classifier, Support Vector Classifier, Decision Tree Classifier and Random Forest Classifier. 
 I split the dataset into 80% training and 20% testing data.
